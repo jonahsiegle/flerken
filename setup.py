@@ -16,7 +16,7 @@ setup(name='flerken',
       author='Juan Montesinos',
       author_email='juanfelipe.montesinos@upf.edu',
       packages=find_packages(),
-      install_requires=['tqdm', 'numpy', 'sklearn'],
+      install_requires=['tqdm', 'numpy', 'scikit-learn'],
       classifiers=[
           "Programming Language :: Python :: 3", ],
       zip_safe=False)
